@@ -552,7 +552,7 @@ html {
   .slide {
     min-height: 400px;
     padding: 30px 0;
-    background-image: none;
+    background-image: none !important;
   }
 
   .slide-title {
